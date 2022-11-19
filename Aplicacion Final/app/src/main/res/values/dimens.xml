@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardViewMainElevation">50dp</dimen>
+    <dimen name="widthSpinnerEmpresa">323dp</dimen>
+    <dimen name="padingLinearLayoutMainActivity">10dp</dimen>
+    <dimen name="marginTopBtnEntrarMainActivity">50dp</dimen>
+    <dimen name="txtPreguntaMainActivity">18dp</dimen>
+    <dimen name="txtTitulosRegister">20dp</dimen>
+    <dimen name="marginTopEditTextRegister">15dp</dimen>
+    <dimen name="widthImgViewFotoCedula">315dp</dimen>
+    <dimen name="heightImgViewFotoCedula">157dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>

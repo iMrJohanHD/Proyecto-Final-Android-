@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Cheap Transporte</string>
+    <string name="txt_login_correo">Correo</string>
+    <string name="txt_login_contraseña">Contraseña</string>
+    <string name="btn_login_entrar">Ingresar</string>
+    <string name="txt_login_pregunta">¿No tienes una cuenta?</string>
+    <string name="txtTituloTuinformación">Tu información *</string>
+    <string name="txt_register_nombre">Nombre completo</string>
+    <string name="txtRegisterEdad">Edad</string>
+    <string name="txt_register_cedula">CC</string>
+    <string name="btnRegisterAñadirCedula">Añadir cedula</string>
+    <string name="txtTituloRegisterAfiliacion">Afiliación *</string>
+    <string name="editTxtRegisterPlacaVehiculo">Placa del vehiculo</string>
+    <string name="txtTituloRegisterCuenta">Cuenta *</string>
+    <string name="editTxtRegisterCorreo">Correo</string>
+    <string name="editTxtRegisterContraseña">Contraseña</string>
+    <string name="checkBoxRegisterTerminos">Acepto los terminos y condiciones</string>
+    <string name="btn_register_register_afiliacon">Registrar afiliación</string>
+    <string name="btnRegisterRegisterCuenta">Registrarse</string>
+    <string name="title_activity_inicio_cheap_transporte">InicioCheapTransporte</string>
+    <string name="txt_register_viaje_titulo">Informacion sobre tu viaje *</string>
+    <string name="txt_register_viaje_origen">Origen *</string>
+    <string name="txt_register_viaje_destino">Destino *</string>
+    <string name="txt_register_viaje_fecha_inicio">Fecha de inicio</string>
+    <string name="txt_register_viaje_hora_inicio">Hora de inicio</string>
+    <string name="txt_register_viaje_fecha_fin">Fecha de llegada</string>
+    <string name="txt_register_viaje_hora_llegada">Hora de llegada</string>
+    <string name="txt_register_viaje_informacion_vehiculo">Informacion del vehiculo *</string>
+    <string name="txt_register_viaje_categoria_vehiculo">Categoria *</string>
+    <string name="txt_regsiter_viaje_cupo_vehiculo">Cupo disponible *</string>
+    <string name="btn_register_viaje">Crear viaje</string>
+    <string name="txt_fragmentViajes_origen">Origen:</string>
+    <string name="txt_fragmentViajes_destino">Destino:</string>
+    <string name="txt_fragmentViajes_fecha_inicio">Fecha Salida:</string>
+    <string name="txt_fragmentViajes_hora_salida">Hora salida:</string>
+    <string name="txt_fragmentViajes_fecha_llegada">Fecha llegada:</string>
+    <string name="txt_fragmentViajes_hora_llegada">Hora llegada:</string>
+    <string name="txt_fragmentViajes_cupo">Cupo:</string>
+    <string name="btn_fragmentViajes_eliminar_viajes">Disponibilidad</string>
+    <string name="btn_fragmentViajes_mostrar_ruta">Ver ruta...</string>
+    <string name="txt_fragmentViajes_precio">Precio:</string>
+    <string name="txt_manualUser_titulo">Manual de usuario</string>
+    <string name="txt_manualUser_como_register">¿Como registrarse?</string>
+    <string name="txt_manualUser_register">En el caso de que el usuario sea nuevo, el registro de información en el aplicativo será dado por medio de la primera interacción en el botón de la imagen principal llamado Registrarse. Además, se le dará de opciones de afiliaciones con empresas que serán propuestas por CheapTransporte y una vez este complete el formulario de forma exitosa,se visualizará un mensaje de éxito y sera redireccionado a la ventana inicial, donde el usuario tendrá la certeza de la creación de su cuenta.</string>
+    <string name="txt_manualUser_como_login">¿Como ingresar?</string>
+    <string name="txt_manualUser_login"> En el momento que el usuario ingrese la información solicitada y confirme su cargue, nuevamente apreciará la pestaña principal para ingresar al aplicativo con el diligenciamiento del correo y contraseña. De igual manera, esta pestaña e interacción será la misma para la persona registrada en el aplicativo que desee ingresar nuevamente.
+</string>
+    <string name="txt_manualUser_como_inicio">Inicio de Cheap Transporte</string>
+    <string name="txt_manualUser_inicio">A partir del ingreso de credenciales del usuario, ingresará de primera mano al entorno general del aplicativo, donde apreciará una barra de navegación superior con cuatro apartados que contemplan de izquierda a derecha los viajes asociados a la cuenta, el historial de viajes, el perfil del usuario con su respectiva información. Además, cuenta con un botón flotante el cual nos funcionara para añadir viajes.</string>
+    <string name="txt_manualUser_inicio_viaje">En el actual menu, es posible la creación de viajes en el aplicativo apreciando el entorno general, donde se da la interacción con el botón flotante ubicado en la zona inferior derecha en forma de símbolo de suma (+) y este dará como acceso a una pantalla secundaría con un formulario para formalizar su oferta.
+</string>
+    <string name="txt_manualUser_inicio_viaje_creacion"> Una vez ingresada la totalidad de la información concebida en la creación de viajes, el siguiente paso a manejar es la interacción con el botón aceptar para formalizar la propuesta del servicio y apreciar a nivel general la información del cupo, ciudad, fecha de inicio y llegada en la sección asignada para los viajes asociados a la cuenta del usuario.</string>
+    <string name="txt_manualUser_inicio_viajes_muestra"> En la misma sección de los viajes asociados, es posible agregar más viajes con las descripciones tratadas anteriormente y cambiar su disponibilidad con el botón superior derecho de color rojo en caso de que algún cliente no lo haya tomado.</string>
+    <string name="txt_manualUser_inicio_viajes_mapa">Así mismo, es posible apreciar en los viajes añadidos, las opciones de interacción en la zona inferior de cada sección llamadas "ver ruta". Estas opciones manejan la descripción del contenido, donde la ruta es apreciada por medio del redireccionamiento a Google Maps para visualizar la ruta de transporte concebida. Además, la opción se maneja por medio de una ventana emergente.
+</string>
+    <string name="txt_manualUser_inicio_viajes_como_historial">¿Como veo mi historial de viajes?</string>
+    <string name="txt_manualUser_inicio_viajes_historial">Con la información tratada por las secciones de viajes, se aprecia la segunda llamada "historial de viajes", donde se maneja la información completa sobre cada uno de los viajes que el conductor ha realizado. Al mismo tiempo, su apreciación será de solo lectura.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tab_text_1">Viajes</string>
+    <string name="tab_text_2">Historial</string>
+    <string name="tab_text_3">Perfil</string>
+    <string name="tab_text_4">Pago</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

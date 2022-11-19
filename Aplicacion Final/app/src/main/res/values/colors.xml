@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0420BF</color>
+    <color name="colorDarkPrimary">#0420BF</color>
+    <color name="teal_700">#a304bf</color>
+    <color name="colorAcent">#0420BF</color>
+    <color name="colorAnalogo1">#047ebf</color>
+    <color name="colorBlanco">#FFFFFFFF</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorMedioNegro">#2E2E2E</color>
+    <color name="colorTrifecta2">#fc393b</color>
+    <color name="colorTrifecta3">#0420BF</color>
+</resources>
